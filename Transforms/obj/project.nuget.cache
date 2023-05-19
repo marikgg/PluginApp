@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hpRsBqpliux+7/cJWHEZawSWUBa6UahJHYl/PifHnOTgTK4MP3WrmE/GxmhS0kJxQUN5kommkWrBOb1CldT/5w==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\PluginApp\\Transforms\\Transforms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duble\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\duble\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\duble\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

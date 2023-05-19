@@ -1,0 +1,13 @@
+C:\Users\Denis\source\repos\PluginApp\Transforms\bin\Debug\netstandard2.0\Transforms.deps.json
+C:\Users\Denis\source\repos\PluginApp\Transforms\bin\Debug\netstandard2.0\Transforms.dll
+C:\Users\Denis\source\repos\PluginApp\Transforms\bin\Debug\netstandard2.0\Transforms.pdb
+C:\Users\Denis\source\repos\PluginApp\Transforms\bin\Debug\netstandard2.0\IPlugin.dll
+C:\Users\Denis\source\repos\PluginApp\Transforms\bin\Debug\netstandard2.0\IPlugin.pdb
+C:\Users\Denis\source\repos\PluginApp\Transforms\obj\Debug\netstandard2.0\Transforms.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\PluginApp\Transforms\obj\Debug\netstandard2.0\Transforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\PluginApp\Transforms\obj\Debug\netstandard2.0\Transforms.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\PluginApp\Transforms\obj\Debug\netstandard2.0\Transforms.AssemblyInfo.cs
+C:\Users\Denis\source\repos\PluginApp\Transforms\obj\Debug\netstandard2.0\Transforms.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\PluginApp\Transforms\obj\Debug\netstandard2.0\Transforms.csproj.CopyComplete
+C:\Users\Denis\source\repos\PluginApp\Transforms\obj\Debug\netstandard2.0\Transforms.dll
+C:\Users\Denis\source\repos\PluginApp\Transforms\obj\Debug\netstandard2.0\Transforms.pdb

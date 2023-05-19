@@ -1,0 +1,13 @@
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\bin\Debug\netstandard2.0\GrayTransform.deps.json
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\bin\Debug\netstandard2.0\GrayTransform.dll
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\bin\Debug\netstandard2.0\GrayTransform.pdb
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\bin\Debug\netstandard2.0\IPlugin.dll
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\bin\Debug\netstandard2.0\IPlugin.pdb
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\GrayTransform.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\GrayTransform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\GrayTransform.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\GrayTransform.AssemblyInfo.cs
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\GrayTransform.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\GrayTransform.csproj.CopyComplete
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\GrayTransform.dll
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\GrayTransform.pdb

@@ -1,0 +1,13 @@
+C:\Users\Denis\source\repos\PluginApp\WhitePlugin\bin\Debug\netstandard2.0\WhitePlugin.deps.json
+C:\Users\Denis\source\repos\PluginApp\WhitePlugin\bin\Debug\netstandard2.0\WhitePlugin.dll
+C:\Users\Denis\source\repos\PluginApp\WhitePlugin\bin\Debug\netstandard2.0\WhitePlugin.pdb
+C:\Users\Denis\source\repos\PluginApp\WhitePlugin\bin\Debug\netstandard2.0\IPlugin.dll
+C:\Users\Denis\source\repos\PluginApp\WhitePlugin\bin\Debug\netstandard2.0\IPlugin.pdb
+C:\Users\Denis\source\repos\PluginApp\WhitePlugin\obj\Debug\netstandard2.0\WhitePlugin.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\PluginApp\WhitePlugin\obj\Debug\netstandard2.0\WhitePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\PluginApp\WhitePlugin\obj\Debug\netstandard2.0\WhitePlugin.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\PluginApp\WhitePlugin\obj\Debug\netstandard2.0\WhitePlugin.AssemblyInfo.cs
+C:\Users\Denis\source\repos\PluginApp\WhitePlugin\obj\Debug\netstandard2.0\WhitePlugin.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\PluginApp\WhitePlugin\obj\Debug\netstandard2.0\WhitePlugin.csproj.CopyComplete
+C:\Users\Denis\source\repos\PluginApp\WhitePlugin\obj\Debug\netstandard2.0\WhitePlugin.dll
+C:\Users\Denis\source\repos\PluginApp\WhitePlugin\obj\Debug\netstandard2.0\WhitePlugin.pdb

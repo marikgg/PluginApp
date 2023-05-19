@@ -1,0 +1,13 @@
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\bin\Debug\netstandard2.0\9PartsTransform.deps.json
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\bin\Debug\netstandard2.0\9PartsTransform.dll
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\bin\Debug\netstandard2.0\9PartsTransform.pdb
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\bin\Debug\netstandard2.0\IPlugin.dll
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\bin\Debug\netstandard2.0\IPlugin.pdb
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\9PartsTransform.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\9PartsTransform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\9PartsTransform.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\9PartsTransform.AssemblyInfo.cs
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\9PartsTransform.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\9PartsTransform.csproj.CopyComplete
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\9PartsTransform.dll
+C:\Users\Denis\source\repos\PluginApp\9PartsTransform\obj\Debug\netstandard2.0\9PartsTransform.pdb
